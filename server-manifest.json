@@ -3,7 +3,7 @@
   "author": "aiwen",
   "version": "2.0",
   "description": "",
-  "fileApi": "https://raw.githubusercontent.com/Aiwen094/modpark-update/main",
+  "fileApi": "https://gitee.com/ai-wen-094/modpark-update/raw/main",
   "files": [
     {
       "path": "config/fml.toml",
