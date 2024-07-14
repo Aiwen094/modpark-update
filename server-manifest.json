@@ -1,0 +1,67 @@
+{
+  "name": "server",
+  "author": "1",
+  "version": "3.0",
+  "description": "",
+  "fileApi": "https://gitee.com/ai-wen-094/modpark-update/raw/main",
+  "files": [
+    {
+      "path": "config/fml.toml",
+      "hash": "93c44bfeab7951dc42fcd930e6f297b6833b55de"
+    },
+    {
+      "path": "config/forge-client.toml",
+      "hash": "5dcc032ce1e3d9e4a9552880f8de2e2c71fcdb1e"
+    },
+    {
+      "path": "config/lithium.properties",
+      "hash": "65b5df6be2f19763b33dd8b1a1ac5323c6e5f2fb"
+    },
+    {
+      "path": "config/modernfix-mixins.properties",
+      "hash": "daa50ebe7e004b89cdb50fe14caf41e4b808bf60"
+    },
+    {
+      "path": "mods/desktop.ini",
+      "hash": "5f6a220ae10545a3033c329abb15770b2c21b1a2"
+    },
+    {
+      "path": "mods/[JEI物品管理器] jei-1.20.1-forge-15.4.0.9.jar",
+      "hash": "b2e55d035b087cbaa2127d077dc61c4afef102ce"
+    },
+    {
+      "path": "mods/[暮色森林] twilightforest-1.20.1-4.3.2508-universal.jar",
+      "hash": "fa3b506a45d3e9c465551cd533fd50c899496e9f"
+    },
+    {
+      "path": "mods/[机械动力] create-1.20.1-0.5.1.f.jar",
+      "hash": "3fee3c26ebbfdfd59e1371ab73ba1f61b44ef6d0"
+    },
+    {
+      "path": "options.txt",
+      "hash": "48896ed8516cc8a02d8d0b5731e50dc6749e58ce"
+    },
+    {
+      "path": "resourcepacks/Furnish Door Knock Silencer.zip",
+      "hash": "b4995b986926de8db3fd778dbd8bd68aaf5f64e0"
+    },
+    {
+      "path": "resourcepacks/Quark Programmer Art.zip",
+      "hash": "2f4cadbbaeffec5f2811b34e053450a930626c15"
+    },
+    {
+      "path": "servers.dat",
+      "hash": "c10cea9110551953a8c32832b86b528565fd2931"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.20.1"
+    },
+    {
+      "id": "forge",
+      "version": "47.2.23"
+    }
+  ]
+}
